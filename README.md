@@ -19,5 +19,7 @@ I am a Full Stack Blockchain Developer specializing in front end, backend, and b
 
 - 🔭 I’m currently working as full-stack blockchain developer.
 - 📫 How to reach me: 
+
            Email: benjaminchoi88919@gmail.com
+           
            LinkedIn: https://www.linkedin.com/in/softwaredev-benjamin-choi
