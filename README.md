@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**benjamin88919/benjamin88919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**blockdev723/blockdev723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Full Stack Blockchain Developer specializing in front end, backend, and blockchain development. 12 years of experiences with all stages of the development cycle for dynamic web projects, blockchain, smart contract, and DApp development. Productive Contributor with a deep passion for technology, and a project manager with many years of experience in most fields of IT, I merge a passion for usability and user experience with technical knowledge to create cool digital experiences.
+I am a Full Stack Blockchain Developer specializing in front end, backend, and blockchain development. 14 years of experiences with all stages of the development cycle for dynamic web projects, blockchain, smart contract, and DApp development. Productive Contributor with a deep passion for technology, and a project manager with many years of experience in most fields of IT, I merge a passion for usability and user experience with technical knowledge to create cool digital experiences.
 
 - 🔭 I’m currently working as full-stack blockchain developer.
 - 📫 How to reach me: 
 
-           Email: benjaminchoi88919@gmail.com
+           Email: benjamin88tech@gmail.com
            
