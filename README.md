@@ -18,9 +18,9 @@ Here are some ideas to get you started:
            Email: benjamin88tech@gmail.com
 -->
 
-I am a Full Stack Blockchain Developer specializing in front end, backend, and blockchain development. 14 years of experiences with all stages of the development cycle for dynamic web projects, blockchain, smart contract, and DApp development. Productive Contributor with a deep passion for technology, and a project manager with many years of experience in most fields of IT, I merge a passion for usability and user experience with technical knowledge to create cool digital experiences.
+I am a Full Stack AI engineer specializing in front end, backend, blockchain, and AI development. 14 years of experiences with all stages of the development cycle for dynamic web projects, blockchain, smart contract, DApp, AI driven product development. Productive Contributor with a deep passion for technology, and a project manager with many years of experience in most fields of IT, I merge a passion for usability and user experience with technical knowledge to create cool digital experiences.
 
-- 🔭 I’m currently working as full-stack blockchain developer.
+- 🔭 I’m currently working as experienced AI enginner in NLP, LLM(Large Language Model), Chat GPT, Claud2, Llama, etc.
 - 🌱 I’m strong experienced in HTML, CSS, Javascript, Node.js, React.js, Vue, Meteor.js, Solidity, Rust, Web3.js, solana-web3.js, PHP, Python, Flask, Java, Golang, C#, ASP .NET, aws, Azure, DevOps, CI/CD, Shell, Linux, software architecture and software engineering, and I’m currently learning Machine Learning and Artificial Intellegence.
 
            
